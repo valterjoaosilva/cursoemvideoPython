@@ -13,7 +13,7 @@ for cont in range(0, len(lanche)):
 #imprime a tupla repetindo ela igual ao número de vezes do contador, nesse caso 4 vezes.
 for cont in range(0, len(lanche)):
     print(lanche)
-# essa é uma tupla númerada, fazendo assim damos a ela o númeoo do contador
+# essa é uma tupla númerada, fazendo assim damos a ela o número do contador
 for pos, comida in enumerate(lanche):
     print(f'{comida} {pos}')
 
