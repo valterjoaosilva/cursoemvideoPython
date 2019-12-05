@@ -54,13 +54,25 @@ num [2] = 8
 print(num)
 
 num.append(12)
+
+print()
+print("imprimindo em ordem")
 num.sort()
 print(num)
+print()
+print("imprimindo reverso")
 num.sort(reverse=True)
 print(num)
+print()
+print("imprimindo insert")
 num.insert(2, 15)
 print(num)
+
+print()
+print("comando pop inserção de elementos na última posição da lista")
 num.pop(3)
+print()
+
 len(num)
 print(num)
 print(len(num))
@@ -90,4 +102,5 @@ d = c[:]
 d[2] = 12
 print(c)
 print(d)
+
 

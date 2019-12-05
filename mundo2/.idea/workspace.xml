@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9afa2ae-a64d-455a-9aba-99001778989d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio72.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio73.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio79.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio81.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio82.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula17.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste1.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste1.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,10 +42,15 @@
   </component>
   <component name="ProjectId" id="1SaKHW95ftJLebb1EqIsJed14Xz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercicio80.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,25 +60,13 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RActiveInterpreterProjectConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings>
         <option name="useSoftWraps" value="true" />
       </console-settings>
-    </option>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
     </option>
   </component>
   <component name="RunManager">
@@ -96,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio72" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="exercicio80" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +105,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio72.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio80.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,6 +114,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -157,7 +165,14 @@
       <workItem from="1574798388474" duration="5925000" />
       <workItem from="1574816207857" duration="617000" />
       <workItem from="1574872637282" duration="352000" />
-      <workItem from="1574873682014" duration="1015000" />
+      <workItem from="1574873682014" duration="8277000" />
+      <workItem from="1574945999264" duration="599000" />
+      <workItem from="1574954082129" duration="1195000" />
+      <workItem from="1574964016407" duration="8105000" />
+      <workItem from="1575312015381" duration="2258000" />
+      <workItem from="1575316813926" duration="12253000" />
+      <workItem from="1575409820788" duration="1044000" />
+      <workItem from="1575463565803" duration="22451000" />
     </task>
     <task id="LOCAL-00001" summary="curso de python">
       <created>1574796898056</created>
@@ -189,7 +204,62 @@
     <MESSAGE value="curso de python" />
     <option name="LAST_COMMIT_MESSAGE" value="curso de python" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575492672076">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="176" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1575492672076" />
+    <state x="401" y="116" width="624" height="570" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575316578468">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="401" y="116" width="624" height="570" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.1296.741@70.27.1296.741" timestamp="1575316578468" />
+    <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl" timestamp="1575492662275">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1575492662275" />
+    <state width="1240" height="200" key="GridCell.Tab.0.bottom" timestamp="1575493112693">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1240" height="200" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1575493112693" />
+    <state width="1240" height="200" key="GridCell.Tab.0.center" timestamp="1575493112691">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1240" height="200" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1575493112691" />
+    <state width="1240" height="200" key="GridCell.Tab.0.left" timestamp="1575493112690">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1240" height="200" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1575493112690" />
+    <state width="1240" height="200" key="GridCell.Tab.0.right" timestamp="1575493112692">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1240" height="200" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1575493112692" />
+    <state width="1240" height="200" key="GridCell.Tab.1.bottom" timestamp="1575493112697">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1240" height="200" key="GridCell.Tab.1.bottom/70.27.1296.741@70.27.1296.741" timestamp="1575493112697" />
+    <state width="1240" height="200" key="GridCell.Tab.1.center" timestamp="1575493112695">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1240" height="200" key="GridCell.Tab.1.center/70.27.1296.741@70.27.1296.741" timestamp="1575493112695" />
+    <state width="1240" height="200" key="GridCell.Tab.1.left" timestamp="1575493112694">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1240" height="200" key="GridCell.Tab.1.left/70.27.1296.741@70.27.1296.741" timestamp="1575493112694" />
+    <state width="1240" height="200" key="GridCell.Tab.1.right" timestamp="1575493112696">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1240" height="200" key="GridCell.Tab.1.right/70.27.1296.741@70.27.1296.741" timestamp="1575493112696" />
+    <state x="83" y="27" width="1259" height="741" key="SettingsEditor" timestamp="1575316889496">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="83" y="27" width="1259" height="741" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1575316889496" />
+    <state x="298" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1575463684298">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="298" y="186" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1575463684297" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mundo2$aula17.coverage" NAME="exercicio80 Coverage Results" MODIFIED="1575492820045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mundo2$exercicio72.coverage" NAME="exercicio72 Coverage Results" MODIFIED="1574805498973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mundo2$teste1.coverage" NAME="teste1 Coverage Results" MODIFIED="1574793470302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

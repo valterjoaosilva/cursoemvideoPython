@@ -14,18 +14,23 @@ for cont in range(0, len(lanche)):
 for cont in range(0, len(lanche)):
     print(lanche)
 # essa é uma tupla númerada, fazendo assim damos a ela o número do contador
+print()
+print("tupla enumerada")
 for pos, comida in enumerate(lanche):
-    print(f'{comida} {pos}')
-
+    print(f'{comida} {pos:>20}', )
+print()
 
 #imprime de forma organizada
+print("tupla organizada")
 print(sorted(lanche))
-
+print()
 #junção de tuplas
 a = 9, 5, 3, 2, 5, 12
 b = 3, 24, 9, 2, 1, 4, 35
 c = a + b
+print()
 #colocando em ordem a junção,
+print("organizano a junção")
 print(sorted(c))
 #lendo o tamanho da tupla
 print(len(c))
