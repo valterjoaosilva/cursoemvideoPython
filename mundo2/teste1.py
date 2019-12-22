@@ -50,3 +50,4 @@ for n in range(0, len(produtos)):
         print(f"R${produtos[n]:>7.2f}")
 print('-'*40)
 
+
