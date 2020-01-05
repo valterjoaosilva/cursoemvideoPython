@@ -7,6 +7,7 @@ pessoas = list()
 # append na estrutura.
 pessoas.append(dados[:])
 print(pessoas)
+
 print(pessoas[0][0])
 print(pessoas[0][1])
 print(pessoas[0][4])
@@ -53,6 +54,8 @@ teste[1] = 32
 antiteste.append(teste[:])
 print(antiteste)
 print(teste)
+
+
 print()
 print("Aula Prática 2 usando for")
 print('-'*40)
@@ -76,27 +79,23 @@ totalmaior = totalmenor = 0
 
 for i in range(0, 3):
     pasta.append(str(input("Digite o nome: ")))
-    pasta.append(int(input("Digite a idade")))
+    pasta.append(int(input("Digite a idade: ")))
+    negócio.append(pasta[:])
+    pasta.clear()
 
-print(pasta)
-for p in pasta:
-    print(p)
 
-for p in pasta:
-    print(f'{p} anos de idade')
 
-for p in pasta:
-    if p[1] >= 21:
-        print(f'{p[0]} é maior de idade.')
+for j in negócio:
+    if j[1] >= 21:
+        print(f'{j[0]} é maior de idade.')
         totalmaior += 1
     else:
-        print(f'{p[0]} é menor de idade')
+        print(f'{j[0]} é menor de idade')
         totalmenor += 1
 
 print(f'Temos {totalmaior} maiores de idade e {totalmenor} menores de idade')
 
 print()
-
 
 
 

@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9afa2ae-a64d-455a-9aba-99001778989d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula18livro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulacap623livro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulacap6livro2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciciolivro62.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciciolivro63.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonaciFunçao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/argumentoPadrão.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulalivro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio84.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio85.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aula18.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio69.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio69.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste1.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulacap623livro.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulacap623livro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +179,11 @@
       <workItem from="1576589915829" duration="12787000" />
       <workItem from="1576706071403" duration="71000" />
       <workItem from="1576867889410" duration="7469000" />
-      <workItem from="1576946090490" duration="2609000" />
+      <workItem from="1576946090490" duration="10754000" />
+      <workItem from="1577828646054" duration="634000" />
+      <workItem from="1577999586830" duration="8162000" />
+      <workItem from="1578090799086" duration="2487000" />
+      <workItem from="1578205035574" duration="6630000" />
     </task>
     <task id="LOCAL-00001" summary="curso de python">
       <created>1574796898056</created>
@@ -271,10 +272,10 @@
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="83" y="27" width="1259" height="741" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1576698756383" />
-    <state x="298" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1576946093575">
+    <state x="298" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1578205040770">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="298" y="186" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1576946093575" />
+    <state x="298" y="186" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1578205040770" />
     <state x="297" y="26" width="840" height="1034" key="search.everywhere.popup" timestamp="1576600134657">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
