@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9afa2ae-a64d-455a-9aba-99001778989d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/defLivro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplo_otavioMiranda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio86.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio86A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio87.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/otavio_InterarString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/otavio_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_Dicionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_Funções.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_OperadorTernario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_Split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_invertPosicaoVariavel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_listas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplo_otavioMiranda.py" beforeDir="false" afterPath="$PROJECT_DIR$/otavio_while.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aulacap6livro.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/otavio_Dicionario.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -92,20 +92,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aulacap6livro" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="otavio_Dicionario.py" type="PythonConfigurationType" factoryName="Python">
       <module name="mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulacap6livro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/otavio_Dicionario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,7 +189,12 @@
       <workItem from="1578945419937" duration="1617000" />
       <workItem from="1579190475224" duration="4058000" />
       <workItem from="1579212337053" duration="726000" />
-      <workItem from="1579539486165" duration="9325000" />
+      <workItem from="1579539486165" duration="14659000" />
+      <workItem from="1579616821938" duration="11550000" />
+      <workItem from="1579639545712" duration="2543000" />
+      <workItem from="1579720032794" duration="1824000" />
+      <workItem from="1579787611365" duration="8312000" />
+      <workItem from="1579799222026" duration="2356000" />
     </task>
     <task id="LOCAL-00001" summary="curso de python">
       <created>1574796898056</created>
@@ -225,18 +227,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="curso de python" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="176" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576868383562">
+    <state x="176" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579797914495">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="176" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1576868383562" />
-    <state x="401" y="116" width="624" height="570" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576080535666">
+    <state x="176" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741/1366.0.1920.1080@70.27.1296.741" timestamp="1579797914495" />
+    <state x="176" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1579633093171" />
+    <state x="401" y="116" width="624" height="570" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579557173356">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="401" y="116" width="624" height="570" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.1296.741@70.27.1296.741" timestamp="1576080535666" />
-    <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl" timestamp="1576868380917">
+    <state x="401" y="116" width="624" height="570" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.1296.741@70.27.1296.741" timestamp="1579557173356" />
+    <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl" timestamp="1579797887647">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1576868380917" />
+    <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl/70.27.1296.741/1366.0.1920.1080@70.27.1296.741" timestamp="1579797887647" />
+    <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1579633075042" />
     <state width="1240" height="200" key="GridCell.Tab.0.bottom" timestamp="1579212667334">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
@@ -281,12 +285,16 @@
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="83" y="27" width="1259" height="741" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1576698756383" />
-    <state x="314" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1579539574388">
+    <state x="298" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1579799245490">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="298" y="346" key="com.intellij.ide.util.TipDialog/70.27.1296.741/1366.0.1920.1080@70.27.1296.741" timestamp="1578945421291" />
-    <state x="314" y="207" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1579539574388" />
+    <state x="298" y="346" key="com.intellij.ide.util.TipDialog/70.27.1296.741/1366.0.1920.1080@70.27.1296.741" timestamp="1579799245490" />
+    <state x="314" y="207" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1579720040706" />
     <state x="395" y="253" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1578417835426" />
+    <state x="444" y="300" width="548" height="202" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579801577376">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="444" y="300" width="548" height="202" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.27.1296.741/1366.0.1920.1080@70.27.1296.741" timestamp="1579801577376" />
     <state x="297" y="26" width="840" height="1034" key="search.everywhere.popup" timestamp="1578776020769">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
