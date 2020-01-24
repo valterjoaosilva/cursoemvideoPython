@@ -36,3 +36,12 @@ print()
 print('Acessando todos os itens do dicionário')
 for k in dicionario.items():
     print(k)
+print()
+print('Chave e valor separados')
+for k, v in dicionario.items():
+    print(k, v)
+print()
+
+
+
+
