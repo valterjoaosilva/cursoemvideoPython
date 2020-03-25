@@ -8,7 +8,7 @@ perguntas = {
     },
     'Pergunta 2': {
         'pergunta': 'Quanto é 3*2? ',
-        'respostas': { 'a': '6', 'b': '2', 'c': '4', },
+        'respostas': {'a': '6', 'b': '2', 'c': '4', },
         'resposta_certa': 'a',
     },
 }

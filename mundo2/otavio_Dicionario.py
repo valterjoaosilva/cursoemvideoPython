@@ -41,6 +41,29 @@ print('Chave e valor separados')
 for k, v in dicionario.items():
     print(k, v)
 print()
+print('Incrementando um dicionario ')
+def testando(s):
+    d = dict()
+    for c in s:
+        if c not in d:
+            d[c] = 1
+        else:
+            d[c] += 1
+    return d
+
+def imprimir(h):
+    for c in h:
+        print(c, h[c])
+
+h = testando('amigos do peito reis')
+print(imprimir(h))
+
+
+
+
+
+
+
 
 
 

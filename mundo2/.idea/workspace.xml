@@ -2,9 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9afa2ae-a64d-455a-9aba-99001778989d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/otavio_TreinoDicionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/otavio_encapsulamento_py.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Classes_Abstratas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Classes_Abstratas/conta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Classes_Abstratas/contaInvestimento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Classes_Abstratas/contacorrente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Classes_Abstratas/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Classes_Abstratas/poupanca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Composicao/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Composicao/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Heranca/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Heranca/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Heranca_Multiplas/eletronico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Heranca_Multiplas/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Heranca_Multiplas/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Heranca_Multiplas/smartphone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Sobreposicao_Membros/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoPythonOtavioMiranda/Sobreposicao_Membros/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LivroIntroProgPython/televisao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dicionario_cadastro_alunos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_Tratando_Excecao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_atributoclasse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_comp_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_criandoModulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_encapsulamento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_mainp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_mainp2_get_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_modulosPadrao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_pessoa/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_pessoa/otavio_mainp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_pessoa/pessoa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otavio_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendas/calc_preco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendas/formatador_preço/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendas/formatador_preço/formatar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/otavio_Dicionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/otavio_Dicionario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otavio_TreinoDicionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/otavio_TreinoDicionario.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +88,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/otavio_TreinoDicionario.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CursoPythonOtavioMiranda/Classes_Abstratas/main.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,7 +110,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,25 +133,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="otavio_TreinoDicionario.py" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoPythonOtavioMiranda/Classes_Abstratas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/otavio_TreinoDicionario.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoPythonOtavioMiranda/Classes_Abstratas/main.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.otavio_encapsulamento.py" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -197,7 +250,40 @@
       <workItem from="1579799222026" duration="3729000" />
       <workItem from="1579808728217" duration="1342000" />
       <workItem from="1579811054075" duration="1862000" />
-      <workItem from="1579878114418" duration="1728000" />
+      <workItem from="1579878114418" duration="7151000" />
+      <workItem from="1579886793169" duration="13208000" />
+      <workItem from="1580085880720" duration="1929000" />
+      <workItem from="1580134134895" duration="1783000" />
+      <workItem from="1580148094578" duration="2777000" />
+      <workItem from="1580152150616" duration="1918000" />
+      <workItem from="1580307065325" duration="1705000" />
+      <workItem from="1580310318786" duration="10022000" />
+      <workItem from="1580477332794" duration="1851000" />
+      <workItem from="1580479890352" duration="110000" />
+      <workItem from="1580480093810" duration="7418000" />
+      <workItem from="1580569530180" duration="1562000" />
+      <workItem from="1580824290003" duration="4128000" />
+      <workItem from="1581081239212" duration="2716000" />
+      <workItem from="1582850405797" duration="3191000" />
+      <workItem from="1582853682700" duration="581000" />
+      <workItem from="1583273002822" duration="6168000" />
+      <workItem from="1583360457956" duration="1139000" />
+      <workItem from="1583361625509" duration="5584000" />
+      <workItem from="1583966909307" duration="6200000" />
+      <workItem from="1584401332258" duration="3495000" />
+      <workItem from="1584482804956" duration="6509000" />
+      <workItem from="1584564474904" duration="8295000" />
+      <workItem from="1584655524143" duration="676000" />
+      <workItem from="1584800798172" duration="6040000" />
+      <workItem from="1584820991409" duration="10835000" />
+      <workItem from="1584852295821" duration="100000" />
+      <workItem from="1584855261753" duration="1952000" />
+      <workItem from="1584893533989" duration="7217000" />
+      <workItem from="1585000141639" duration="4169000" />
+      <workItem from="1585048684104" duration="7503000" />
+      <workItem from="1585060485408" duration="1832000" />
+      <workItem from="1585089294066" duration="630000" />
+      <workItem from="1585144584358" duration="581000" />
     </task>
     <task id="LOCAL-00001" summary="curso de python">
       <created>1574796898056</created>
@@ -238,74 +324,82 @@
     <option name="LAST_COMMIT_MESSAGE" value="curso de python do Otavio Miranda" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="176" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579879079752">
+    <state x="165" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584920606563">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="176" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741/1366.0.1920.1080@70.27.1296.741" timestamp="1579797914495" />
-    <state x="176" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1579879079752" />
-    <state x="401" y="116" width="624" height="570" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579557173356">
+    <state x="165" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1584920606563" />
+    <state x="388" y="144" width="650" height="513" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579966825942">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="401" y="116" width="624" height="570" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.1296.741@70.27.1296.741" timestamp="1579557173356" />
+    <state x="388" y="144" width="650" height="513" key="#com.intellij.ide.util.TreeClassChooserDialog/70.27.1296.741@70.27.1296.741" timestamp="1579966825942" />
+    <state x="401" y="116" width="624" height="570" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580479831884">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="401" y="116" width="624" height="570" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.1296.741@70.27.1296.741" timestamp="1580479831884" />
     <state x="70" y="27" width="1286" height="741" key="CommitChangelistDialog2" timestamp="1579801647357">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="70" y="27" width="1286" height="741" key="CommitChangelistDialog2/70.27.1296.741/1366.0.1920.1080@70.27.1296.741" timestamp="1579801647357" />
-    <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl" timestamp="1579879060995">
+    <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl" timestamp="1584920599289">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl/70.27.1296.741/1366.0.1920.1080@70.27.1296.741" timestamp="1579797887647" />
-    <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1579879060995" />
-    <state width="1240" height="200" key="GridCell.Tab.0.bottom" timestamp="1579212667334">
+    <state x="445" y="100" width="524" height="601" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1584920599289" />
+    <state width="1240" height="229" key="GridCell.Tab.0.bottom" timestamp="1585067492012">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1240" height="200" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1579212667334" />
+    <state width="1240" height="229" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1585067492012" />
     <state width="1240" height="200" key="GridCell.Tab.0.bottom/70.27.698.1339@70.27.698.1339" timestamp="1576943357806" />
-    <state width="1240" height="200" key="GridCell.Tab.0.center" timestamp="1579212667333">
+    <state width="1240" height="229" key="GridCell.Tab.0.center" timestamp="1585067492010">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1240" height="200" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1579212667333" />
+    <state width="1240" height="229" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1585067492010" />
     <state width="1240" height="200" key="GridCell.Tab.0.center/70.27.698.1339@70.27.698.1339" timestamp="1576943357741" />
-    <state width="1240" height="200" key="GridCell.Tab.0.left" timestamp="1579212667333">
+    <state width="1240" height="229" key="GridCell.Tab.0.left" timestamp="1585067492009">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1240" height="200" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1579212667333" />
+    <state width="1240" height="229" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1585067492009" />
     <state width="1240" height="200" key="GridCell.Tab.0.left/70.27.698.1339@70.27.698.1339" timestamp="1576943357706" />
-    <state width="1240" height="200" key="GridCell.Tab.0.right" timestamp="1579212667334">
+    <state width="1240" height="229" key="GridCell.Tab.0.right" timestamp="1585067492011">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1240" height="200" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1579212667334" />
+    <state width="1240" height="229" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1585067492011" />
     <state width="1240" height="200" key="GridCell.Tab.0.right/70.27.698.1339@70.27.698.1339" timestamp="1576943357773" />
-    <state width="1240" height="200" key="GridCell.Tab.1.bottom" timestamp="1579212667336">
+    <state width="1240" height="200" key="GridCell.Tab.1.bottom" timestamp="1585000511253">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1240" height="200" key="GridCell.Tab.1.bottom/70.27.1296.741@70.27.1296.741" timestamp="1579212667336" />
+    <state width="1240" height="200" key="GridCell.Tab.1.bottom/70.27.1296.741@70.27.1296.741" timestamp="1585000511253" />
     <state width="1240" height="200" key="GridCell.Tab.1.bottom/70.27.698.1339@70.27.698.1339" timestamp="1576943357928" />
-    <state width="1240" height="200" key="GridCell.Tab.1.center" timestamp="1579212667335">
+    <state width="1240" height="200" key="GridCell.Tab.1.center" timestamp="1585000511253">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1240" height="200" key="GridCell.Tab.1.center/70.27.1296.741@70.27.1296.741" timestamp="1579212667335" />
+    <state width="1240" height="200" key="GridCell.Tab.1.center/70.27.1296.741@70.27.1296.741" timestamp="1585000511253" />
     <state width="1240" height="200" key="GridCell.Tab.1.center/70.27.698.1339@70.27.698.1339" timestamp="1576943357868" />
-    <state width="1240" height="200" key="GridCell.Tab.1.left" timestamp="1579212667335">
+    <state width="1240" height="200" key="GridCell.Tab.1.left" timestamp="1585000511253">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1240" height="200" key="GridCell.Tab.1.left/70.27.1296.741@70.27.1296.741" timestamp="1579212667335" />
+    <state width="1240" height="200" key="GridCell.Tab.1.left/70.27.1296.741@70.27.1296.741" timestamp="1585000511253" />
     <state width="1240" height="200" key="GridCell.Tab.1.left/70.27.698.1339@70.27.698.1339" timestamp="1576943357838" />
-    <state width="1240" height="200" key="GridCell.Tab.1.right" timestamp="1579212667336">
+    <state width="1240" height="200" key="GridCell.Tab.1.right" timestamp="1585000511253">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1240" height="200" key="GridCell.Tab.1.right/70.27.1296.741@70.27.1296.741" timestamp="1579212667336" />
+    <state width="1240" height="200" key="GridCell.Tab.1.right/70.27.1296.741@70.27.1296.741" timestamp="1585000511253" />
     <state width="1240" height="200" key="GridCell.Tab.1.right/70.27.698.1339@70.27.698.1339" timestamp="1576943357900" />
-    <state x="83" y="27" width="1259" height="741" key="SettingsEditor" timestamp="1576698756383">
+    <state x="83" y="27" width="1259" height="741" key="SettingsEditor" timestamp="1580479860423">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="83" y="27" width="1259" height="741" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1576698756383" />
-    <state x="314" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1579878113916">
+    <state x="83" y="27" width="1259" height="741" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1580479860423" />
+    <state x="314" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1585144717246">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="298" y="346" key="com.intellij.ide.util.TipDialog/70.27.1296.741/1366.0.1920.1080@70.27.1296.741" timestamp="1579799245490" />
-    <state x="314" y="207" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1579878113916" />
+    <state x="314" y="207" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1585144717246" />
     <state x="395" y="253" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1578417835426" />
+    <state x="282" y="27" width="861" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584806240282">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="282" y="27" width="861" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/70.27.1296.741@70.27.1296.741" timestamp="1584806240282" />
     <state x="444" y="300" width="548" height="202" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579801577376">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
@@ -320,9 +414,19 @@
     <state x="424" y="300" width="588" height="202" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/70.27.1296.741@70.27.1296.741" timestamp="1578715399000" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mundo2$otavio_mainp1_py.coverage" NAME="otavio_mainp2_get_set.py Coverage Results" MODIFIED="1580830980320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mundo2$main.coverage" NAME="main Coverage Results" MODIFIED="1585061814938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CursoPythonOtavioMiranda/Classes_Abstratas" />
+    <SUITE FILE_PATH="coverage/mundo2$otavio_comp_list_py.coverage" NAME="otavio_mainp.py Coverage Results" MODIFIED="1580320182248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/otavio_pessoa" />
+    <SUITE FILE_PATH="coverage/mundo2$otavio_mainp_py.coverage" NAME="otavio_mainp1.py Coverage Results" MODIFIED="1580488375124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mundo2$otavio_mainp2_get_set_py.coverage" NAME="otavio_atributoclasse.py Coverage Results" MODIFIED="1581083025527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mundo2$televisao.coverage" NAME="televisao Coverage Results" MODIFIED="1584920549432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LivroIntroProgPython" />
+    <SUITE FILE_PATH="coverage/mundo2$teste1.coverage" NAME="teste1 Coverage Results" MODIFIED="1574793470302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mundo2$aula17.coverage" NAME="exercicio80 Coverage Results" MODIFIED="1575492820045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mundo2$main1.coverage" NAME="main2 Coverage Results" MODIFIED="1583973838371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ecomerce" />
     <SUITE FILE_PATH="coverage/mundo2$aulacap6livro.coverage" NAME="aulacap6livro Coverage Results" MODIFIED="1579212364766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mundo2$exercicio72.coverage" NAME="exercicio72 Coverage Results" MODIFIED="1574805498973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mundo2$teste1.coverage" NAME="teste1 Coverage Results" MODIFIED="1574793470302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mundo2$otavio_encapsulamento_py.coverage" NAME="otavio_encapsulamento.py Coverage Results" MODIFIED="1583279804346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mundo2$main2.coverage" NAME="main Coverage Results" MODIFIED="1584489608822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CursoPythonOtavioMiranda/Composicao" />
+    <SUITE FILE_PATH="coverage/mundo2$eletronico.coverage" NAME="main Coverage Results" MODIFIED="1584828935947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CursoPythonOtavioMiranda/Heranca_Multiplas" />
   </component>
 </project>
